@@ -29,6 +29,6 @@ module.exports = {
     'no-param-reassing': 'off',
     'no-console': ['error', { allow: ['tron'] }],
     'react-hooks/rules-of-hooks': 'error',
-    'react-hppks/exhaustive-deps': 'warn'
+    'react-hooks/exhaustive-deps': 'warn'
   }
 };
