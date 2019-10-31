@@ -1,7 +1,6 @@
 # Rocketseat_ArquiteturaFlux_ReactHooks
-Bootcamp Rocketseat - Arquitetura Flux
 # (Fase 4)
-Bootcamp Rocketseat - React
+Bootcamp Rocketseat - Arquitetura Flux
 
 # Comandos ReactJS (Arquitetura Flux)
 
