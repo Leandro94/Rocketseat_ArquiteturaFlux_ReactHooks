@@ -23,3 +23,6 @@ yarn add reactotron-redux-
 yarn add react-toastify
 yarn add history
 
+# Comandos ReactJS (React Hooks)
+yarn add eslint-plugin-react-hooks -D
+
